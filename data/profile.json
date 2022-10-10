@@ -1,7 +1,7 @@
 {
   "name": "Luciano da Costa Barbosa",
   "photo": "https://avatars.githubusercontent.com/u/94268758?v=4",
-  "job": "Desenvolvedor Full Stack Jr. Target Sistemas",
+  "job": "Desenvolvedor Full Stack Jr. / Target Sistemas",
   "location": "Recife - PE",
   "phone": "(81)9.9248-1633",
   "email": "lucianobebarbosa@gmail.com",
@@ -38,7 +38,7 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Proatividade",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -46,37 +46,30 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-      "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Prova Front Fiscon",
+      "url": "https://github.com/Lucianocbarbosa/Prova-Front-Fiscon",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Desenvolvedor Full Stack Jr / Target Sistemas",
+      "period": "out/2022 - o momento",
+      "description": "-"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Desenvolvedor FrontEnd Angular / Marlin",
+      "period": "mai de 2022 - out de 2022 · 7 meses",
+      "description": "Desenvolvimento de aplicações web utilizando Angular/Ionic com TypeScript."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "CEO / Solis Imperium - BS Consultoria Energética",
+      "period": "jul de 2018 - nov de 2021 · 3 anos 3 meses",
+      "description": "Sócio fundador, startup voltada para ramo de energia renováveis, com o propósito de democratizar a energia solar com novos acessos, a fim de reduzir gastos, influenciando na diversificação da matriz energética e incentivando um mundo mais sustentável, incubada pelo Porto Digital. Responsável pela parte técnica da empresa, elaboração dos projetos fotovoltaicos, compra do material, supervisionamento da equipe de instalação, escolhas das tecnologias utilizadas nos projetos, criação de cronograma."
     }
   ]
 }
